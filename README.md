@@ -1,44 +1,26 @@
-Task Management System 🗂️
-A web-based Task Management System developed using ASP.NET Web Forms. This project was built as part of a training program at King Fahad Medical City, designed to enhance task organization and improve productivity. It supports full CRUD operations, task prioritization, and Excel export functionality—all through a sleek, user-friendly interface. 🌐
+# Task Management System
 
+A web-based Task Management System developed using *ASP.NET Web Forms*. This project was built as part of a training program at King Fahad Medical City, aiming to enhance task organization and streamline productivity. It supports full CRUD operations, task prioritization, and Excel export functionality — all through a clean and user-friendly interface.
 
-Features ✨
-✅ Add, Edit, and Delete tasks
+## Features
 
-⚡ Assign task priorities using a dynamic DropDownList
+- Add, edit, and delete tasks
+- Assign task priorities via DropDownList
+- Display tasks using a GridView with pagination
+- Export task data to Excel
+- Simple and clean user interface
+- Organized project structure using C# and SQL Server
 
-📊 Display tasks in a paginated GridView
+## Technologies Used
 
-📥 Export task data to Excel
+- ASP.NET Web Forms (C#)
+- SQL Server
+- ADO.NET
+- HTML5, CSS3
+- JavaScript
+- Bootstrap
+- Visual Studio
 
-🎨 Clean and simple user interface
+## Installation
 
-🛠️ Organized project structure using C# and SQL Server
-
-Technologies Used 🖥️
-ASP.NET Web Forms (C#)
-
-SQL Server 🗄️
-
-ADO.NET 🔗
-
-HTML5, CSS 🌍
-
-JavaScript 💻
-
-Visual Studio 🖥️
-
-Installation 🔧
-Clone the repository:
-
-bash
-نسخ
-تحرير
-git clone https://github.com/your-username/Task-Management-System.git
-Open the project in Visual Studio.
-
-Build the solution to restore all dependencies.
-
-Configure the SQL Server connection string in the web.config file.
-
-Run the application locally or deploy it to your web server.
+1. Clone the repository:
