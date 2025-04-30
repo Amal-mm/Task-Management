@@ -1,6 +1,7 @@
 # Task Management System
+A web-based Task Management System developed using ASP.NET Web Forms. The system is designed to enhance task organization and streamline productivity. It supports full CRUD operations, task prioritization, and Excel export functionality — all through a clean and user-friendly interface. 🌐
 
-A web-based Task Management System developed using *ASP.NET Web Forms*. This project was built as part of a training program at King Fahad Medical City, aiming to enhance task organization and streamline productivity. It supports full CRUD operations, task prioritization, and Excel export functionality — all through a clean and user-friendly interface.
+
 
 ## Features
 
