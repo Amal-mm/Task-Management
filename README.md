@@ -16,9 +16,8 @@ A web-based Task Management System developed using *ASP.NET Web Forms*. This pro
 - ASP.NET Web Forms (C#)
 - SQL Server
 - ADO.NET
-- HTML5, CSS3
+- HTML5, CSS
 - JavaScript
-- Bootstrap
 - Visual Studio
 
 ## Installation
